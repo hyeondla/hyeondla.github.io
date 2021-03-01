@@ -94,10 +94,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Dahyeon Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "For development portfolio"
+  location         : "Busan, Korea"
   email            :
   links:
     - label: "Email"
